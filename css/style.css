@@ -1,3 +1,78 @@
-h1{
-    color: coral;
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Gamja+Flower&family=Honk&family=Josefin+Sans&family=Permanent+Marker&family=Teko:wght@300;600&display=swap');h1{
+  font-family: 'Honk', system-ui;
+  color: coral;
+    text-align: center;
+    font-size: 60px;
+}
+h2{
+  font-family: 'Josefin Sans', sans-serif;
+  color: beige;
+  text-align: center;
+  font-size: 35px;
+}
+h3{
+  font-family: 'Permanent Marker', cursive;
+  color: mintcream;
+  text-align: center;
+  font-size: 30px;
+
+}
+img{
+  width: 850px;
+
+}
+
+body{
+  background-color:darkseagreen;
+}
+
+
+table, th, td{
+  border: 4px solid hotpink
+}
+
+tr:nth-child(even){
+  background-color: darkturquoise;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+.jinx{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 10px solid darkcyan;
+}
+.league{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+table{
+  background-color:deepskyblue;
+}
+.vi{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 400px;
+border: 10px solid darkred;
+}
+.fishbones{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  border: solid black;
+}
+.explosion{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  border: solid white;
 }
