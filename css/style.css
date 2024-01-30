@@ -10,6 +10,7 @@ h2{
   color: beige;
   text-align: center;
   font-size: 35px;
+  background-color: black;
 }
 h3{
   font-family: 'Permanent Marker', cursive;
@@ -76,3 +77,24 @@ border: 10px solid darkred;
   width: 400px;
   border: solid white;
 }
+div.container{
+  text-align: center;
+}
+ul.myUL{
+  display:inline-block;
+  text-align: left;
+}
+ul {
+  /*list-style-position: outside;*/
+  list-style-type: square;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+.gray-bg {
+  background-color: #F5F5F5;
+  padding: 15px;
+}
+
