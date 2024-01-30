@@ -8,7 +8,19 @@ h1{
     text-align: center;
     font-size: 60px;
     background-color: black;
+padding-top: 20px;
+padding-right: 0%;
+padding-bottom: 20px;
+padding-left: 50px;
+border: 5px solid hotpink;
 }
+
+.div1{
+    width: 300px;
+    height: 100px;
+    border: 1px solid blue;
+}
+
 h2{
 font-family: 'Gamja Flower', sans-serif;
   color: beige;
