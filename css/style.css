@@ -1,22 +1,29 @@
 
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Gamja+Flower&family=Honk&family=Josefin+Sans&family=Permanent+Marker&family=Teko:wght@300;600&display=swap');h1{
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Gamja+Flower&family=Honk&family=Josefin+Sans&family=Permanent+Marker&family=Press+Start+2P&family=Silkscreen&family=Teko:wght@300;600&display=swap');
+
+
+h1{
   font-family: 'Honk', system-ui;
-  color: coral;
+  color: blue;
     text-align: center;
     font-size: 60px;
+    background-color: black;
 }
 h2{
-  font-family: 'Josefin Sans', sans-serif;
+font-family: 'Gamja Flower', sans-serif;
   color: beige;
-  text-align: center;
-  font-size: 35px;
+text-align: center;
+font-size: 35px;
   background-color: black;
+padding-left: 50px;
 }
 h3{
-  font-family: 'Permanent Marker', cursive;
-  color: mintcream;
+  font-family: 'Press Start 2P', system-ui;
+  color: snow;
   text-align: center;
   font-size: 30px;
+  background-color: black;
+  border-top: 50px;
 
 }
 img{
@@ -84,6 +91,7 @@ ul.myUL{
   display:inline-block;
   text-align: left;
 }
+
 ul {
   /*list-style-position: outside;*/
   list-style-type: square;
@@ -98,3 +106,15 @@ ul li {
   padding: 15px;
 }
 
+p{
+  font-size: 25px;
+text-align: center;
+color: powderblue;
+background-color: black;
+font-family: 'DM Serif Display', serif;
+
+}
+
+div{
+  background-color: black;
+}
